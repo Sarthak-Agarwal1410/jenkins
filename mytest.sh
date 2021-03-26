@@ -3,3 +3,4 @@ date
 cal
 echo "bye"
 echo "thank you"
+echo "code has edited now"
